@@ -1,4 +1,4 @@
-#using Exponentioals 
+#using Exponentiational
 
 # num = 64
 num1 = int(input("Enter a number here:"))
